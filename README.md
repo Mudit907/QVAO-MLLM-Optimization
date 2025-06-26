@@ -2,6 +2,8 @@ Quantum-Inspired Optimization for Multi-Modal LLMs
 
 This repository documents my research journey into enhancing multi-modal large language models (MLLMs) using quantum-inspired optimization techniques. As a third-year CSE student at SRM Institute, Chennai, I aimed to develop a Quantum-Inspired Variational Attention Optimizer (QVAO) to improve the efficiency and accuracy of MLLMs like LLaVA-1.5-7B, particularly for visual question answering (VQA) tasks using the VQAv2 dataset. Due to resource limitations, the project couldn’t be fully implemented, but this repo captures the theoretical framework, classical baseline setup, and planned quantum approach.
 
+**Check out my Blog: ** https://medium.com/@muditsrivastava22/chatgpt-for-your-next-trick-try-quantum-magic-b5d719dc52e2
+
 **Project Overview**
 - **Goal**: Optimize attention mechanisms in MLLMs using quantum-inspired methods to enhance cross-modal alignment and reduce computational costs.
 - **Tools**: Kaggle (classical baseline), IBM Quantum Labs (quantum phase), LLaVA-1.5-7B, VQAv2 dataset, Qiskit, PyTorch.
